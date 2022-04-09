@@ -31,7 +31,7 @@
     "file-loader": "^2.0.0",
     "jquery": "^3.4.1",
     "layui-src": "^2.5.4",
-    "moment": "^2.23.0",
+    "moment": "^2.29.2",
     "node-sass": "^4.10.0",
     "popover.js": "^0.2.40",
     "popper.js": "^1.15.0",
